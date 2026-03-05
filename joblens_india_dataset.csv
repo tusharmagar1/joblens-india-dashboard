@@ -1,0 +1,301 @@
+company,city,sector,role,salary_lpa,skills,experience
+Tata Consultancy Services,Ahmedabad,Manufacturing,Operations Engineer,6,"SQL, Communication, Machine Learning",0-2
+Infosys,Pune,IT,DevOps Engineer,6,"AWS, PowerBI, Tableau",0-1
+Wipro,Noida,Manufacturing,Operations Engineer,4,"SQL, Machine Learning, Figma",1-3
+HCL Technologies,Mumbai,Finance,Investment Analyst,11,"Java, Communication, SQL",0-1
+Tech Mahindra,Bangalore,Healthcare,Health Data Analyst,15,"Machine Learning, Java, Figma",1-3
+Reliance Industries,Hyderabad,IT,Backend Developer,14,"Figma, Python, Excel",0-2
+Adani Group,Ahmedabad,Manufacturing,Process Engineer,6,"Marketing Analytics, Statistics, AWS",1-3
+ICICI Bank,Pune,Design,Graphic Designer,16,"AWS, PowerBI, SQL",1-3
+HDFC Bank,Noida,Marketing,SEO Analyst,20,"AWS, Statistics, SQL",0-1
+Axis Bank,Gurgaon,E-commerce,Category Analyst,11,"Statistics, Tableau, AWS",1-3
+Flipkart,Bangalore,Design,UX Designer,10,"Figma, Marketing Analytics, Java",0-1
+Amazon,Pune,Data Science,ML Engineer,19,"Marketing Analytics, Tableau, Java",1-3
+Google,Delhi,E-commerce,Product Analyst,17,"Python, PowerBI, Statistics",0-1
+Microsoft,Hyderabad,Telecom,Telecom Engineer,11,"Excel, Communication, SQL",0-2
+Meta,Kolkata,Marketing,Growth Marketer,19,"Java, SQL, Communication",0-1
+Apple,Bangalore,Marketing,SEO Analyst,18,"Figma, Tableau, PowerBI",0-1
+Oracle,Pune,IT,Software Engineer,14,"SQL, Marketing Analytics, PowerBI",1-3
+IBM,Chennai,E-commerce,Category Analyst,11,"Excel, Tableau, Machine Learning",1-3
+Intel,Delhi,Consulting,Operations Analyst,19,"Marketing Analytics, AWS, Machine Learning",0-2
+Cisco,Bangalore,Design,UI Designer,17,"Marketing Analytics, Statistics, SQL",1-3
+Paytm,Pune,E-commerce,Category Analyst,14,"PowerBI, Tableau, Statistics",0-2
+PhonePe,Delhi,Manufacturing,Process Engineer,20,"Excel, PowerBI, Figma",1-3
+Zomato,Pune,Telecom,Network Analyst,4,"Excel, SQL, Java",1-3
+Swiggy,Gurgaon,Telecom,Network Analyst,17,"AWS, PowerBI, Figma",1-3
+Ola Cabs,Bangalore,E-commerce,Product Analyst,20,"Communication, Java, Python",1-3
+Uber,Noida,Design,UI Designer,7,"Marketing Analytics, Python, Statistics",1-3
+BYJU'S,Delhi,IT,Frontend Developer,17,"Marketing Analytics, Figma, Statistics",0-1
+Unacademy,Chennai,Healthcare,Bioinformatics Analyst,20,"PowerBI, Machine Learning, Statistics",0-1
+Nykaa,Ahmedabad,Finance,Risk Analyst,13,"Marketing Analytics, Excel, Communication",0-2
+Meesho,Mumbai,Consulting,Operations Analyst,10,"Statistics, AWS, SQL",0-2
+Deloitte,Mumbai,Consulting,Operations Analyst,18,"AWS, Statistics, Marketing Analytics",0-1
+PricewaterhouseCoopers,Pune,Finance,Investment Analyst,4,"Tableau, AWS, Communication",1-3
+Ernst & Young,Kolkata,E-commerce,Category Analyst,5,"Figma, PowerBI, Tableau",0-1
+KPMG,Pune,E-commerce,Product Analyst,10,"Excel, Machine Learning, SQL",1-3
+Accenture,Delhi,Healthcare,Bioinformatics Analyst,8,"Excel, Python, PowerBI",1-3
+Capgemini,Ahmedabad,Design,UX Designer,9,"Excel, Machine Learning, Marketing Analytics",0-1
+Cognizant,Noida,Telecom,Network Analyst,12,"PowerBI, Python, Figma",0-2
+Larsen & Toubro,Noida,Healthcare,Health Data Analyst,17,"Communication, AWS, Marketing Analytics",0-1
+Mahindra & Mahindra,Chennai,Marketing,Digital Marketing Specialist,17,"PowerBI, Statistics, Excel",1-3
+Tata Group,Kolkata,E-commerce,Category Analyst,14,"Java, Statistics, Python",0-1
+Maruti Suzuki,Delhi,Design,Graphic Designer,20,"Machine Learning, Python, Statistics",0-1
+Hero MotoCorp,Bangalore,IT,Backend Developer,7,"SQL, Marketing Analytics, Excel",0-2
+Bajaj Auto,Kolkata,Design,UX Designer,8,"Python, Machine Learning, AWS",1-3
+TVS Motor Company,Kolkata,Healthcare,Health Data Analyst,18,"Machine Learning, Java, Tableau",0-2
+Ashok Leyland,Pune,Finance,Investment Analyst,9,"AWS, Machine Learning, Excel",1-3
+JSW Steel,Mumbai,Design,UI Designer,6,"Java, Tableau, PowerBI",0-1
+Tata Steel,Ahmedabad,Marketing,Digital Marketing Specialist,14,"Figma, SQL, Tableau",1-3
+Vedanta,Noida,Finance,Risk Analyst,12,"Communication, Figma, PowerBI",0-1
+Oil and Natural Gas Corporation,Bangalore,Finance,Financial Analyst,6,"Java, Statistics, Excel",1-3
+Coal India,Pune,Design,UX Designer,5,"SQL, Statistics, Excel",1-3
+Dr. Reddy's Laboratories,Chennai,IT,Backend Developer,10,"Excel, Communication, Statistics",1-3
+Sun Pharmaceutical,Chennai,Marketing,Digital Marketing Specialist,15,"PowerBI, Java, Figma",0-2
+Cipla,Pune,Manufacturing,Operations Engineer,16,"Tableau, SQL, Communication",0-2
+Apollo Hospitals,Kolkata,Data Science,ML Engineer,15,"Machine Learning, Communication, Excel",1-3
+Fortis Healthcare,Chennai,Healthcare,Health Data Analyst,9,"Tableau, Java, AWS",0-2
+Biocon,Kolkata,Finance,Financial Analyst,7,"PowerBI, Communication, Excel",1-3
+Aurobindo Pharma,Hyderabad,Data Science,Business Analyst,13,"Statistics, Communication, Java",0-2
+Lupin,Noida,Healthcare,Health Data Analyst,19,"AWS, PowerBI, Excel",0-2
+Zydus Lifesciences,Pune,Telecom,Telecom Engineer,6,"Excel, Tableau, Marketing Analytics",0-2
+Glenmark Pharmaceuticals,Mumbai,IT,Backend Developer,20,"Communication, Python, SQL",0-2
+Godrej Group,Gurgaon,Healthcare,Bioinformatics Analyst,18,"Statistics, Java, Machine Learning",1-3
+ITC Limited,Pune,Telecom,Network Analyst,9,"SQL, Java, Marketing Analytics",0-2
+Havells India,Noida,Telecom,Network Analyst,5,"Communication, AWS, Machine Learning",0-2
+Asian Paints,Gurgaon,Healthcare,Health Data Analyst,5,"Marketing Analytics, AWS, Excel",1-3
+Pidilite Industries,Gurgaon,E-commerce,Category Analyst,18,"Machine Learning, SQL, Tableau",0-1
+Britannia Industries,Chennai,Design,UI Designer,5,"Python, PowerBI, Java",1-3
+Nestle India,Noida,Data Science,Business Analyst,16,"PowerBI, Excel, SQL",0-2
+Dabur India,Pune,Marketing,SEO Analyst,19,"PowerBI, Tableau, Statistics",0-2
+Amul,Gurgaon,Design,UX Designer,18,"Communication, AWS, SQL",1-3
+Parle Products,Bangalore,Healthcare,Bioinformatics Analyst,16,"Communication, Tableau, Excel",1-3
+Samsung,Pune,E-commerce,Product Analyst,18,"Communication, Figma, Java",0-2
+LG Electronics,Mumbai,Finance,Investment Analyst,11,"SQL, Tableau, AWS",0-1
+Sony,Delhi,Manufacturing,Operations Engineer,16,"PowerBI, Tableau, Excel",0-2
+Panasonic,Ahmedabad,Manufacturing,Process Engineer,9,"Machine Learning, Statistics, PowerBI",0-2
+Xiaomi,Noida,Design,Graphic Designer,7,"Java, Excel, PowerBI",0-1
+OnePlus,Delhi,Consulting,Strategy Analyst,10,"SQL, Excel, PowerBI",1-3
+Realme,Mumbai,Finance,Risk Analyst,9,"Communication, Python, Machine Learning",0-1
+Vivo,Kolkata,E-commerce,Category Analyst,19,"Excel, Marketing Analytics, Statistics",0-1
+Oppo,Kolkata,Healthcare,Health Data Analyst,14,"PowerBI, SQL, Excel",1-3
+Lenovo,Chennai,Telecom,Network Analyst,18,"SQL, Java, AWS",1-3
+Adobe,Pune,Design,Graphic Designer,9,"Java, Figma, AWS",0-2
+Salesforce,Kolkata,IT,Software Engineer,16,"PowerBI, Figma, Python",1-3
+SAP,Noida,Telecom,Telecom Engineer,14,"Tableau, AWS, Java",1-3
+ServiceNow,Chennai,Marketing,Digital Marketing Specialist,7,"Tableau, Python, PowerBI",1-3
+Snowflake,Gurgaon,IT,Software Engineer,4,"Statistics, Communication, Machine Learning",0-2
+Databricks,Ahmedabad,E-commerce,Category Analyst,8,"Python, SQL, Excel",0-2
+Atlassian,Gurgaon,Data Science,Data Analyst,20,"Machine Learning, Statistics, Tableau",1-3
+Stripe,Hyderabad,Manufacturing,Process Engineer,19,"Excel, Java, Python",0-1
+Airbnb,Mumbai,Consulting,Business Consultant,10,"Marketing Analytics, Machine Learning, Java",0-1
+Netflix,Hyderabad,IT,Backend Developer,4,"Excel, Java, AWS",0-1
+Spotify,Kolkata,Healthcare,Bioinformatics Analyst,5,"Java, SQL, Excel",1-3
+Zoom,Kolkata,Data Science,Data Scientist,10,"Marketing Analytics, Statistics, Java",1-3
+Dropbox,Ahmedabad,Manufacturing,Process Engineer,18,"PowerBI, Python, Communication",1-3
+Slack,Gurgaon,IT,Frontend Developer,12,"AWS, SQL, Figma",0-2
+Red Hat,Delhi,Telecom,Telecom Engineer,14,"Communication, Machine Learning, SQL",1-3
+Cloudflare,Bangalore,E-commerce,Category Analyst,12,"Marketing Analytics, PowerBI, Excel",0-2
+DigitalOcean,Gurgaon,Finance,Investment Analyst,11,"Marketing Analytics, AWS, Excel",0-1
+MongoDB,Kolkata,Marketing,SEO Analyst,10,"SQL, Tableau, Machine Learning",0-1
+Nvidia,Chennai,Finance,Financial Analyst,16,"Communication, AWS, Figma",0-2
+Advanced Micro Devices,Chennai,Data Science,Data Analyst,11,"AWS, Java, Communication",0-2
+Tata Consultancy Services,Ahmedabad,Marketing,Growth Marketer,8,"Marketing Analytics, PowerBI, Figma",0-1
+Infosys,Ahmedabad,Marketing,SEO Analyst,16,"Communication, SQL, Figma",1-3
+Wipro,Kolkata,Data Science,Data Scientist,4,"Tableau, Communication, Marketing Analytics",0-2
+HCL Technologies,Pune,IT,DevOps Engineer,9,"Statistics, Marketing Analytics, Excel",0-2
+Tech Mahindra,Ahmedabad,Healthcare,Health Data Analyst,17,"Tableau, Marketing Analytics, AWS",1-3
+Reliance Industries,Pune,Telecom,Network Analyst,15,"Figma, Java, Communication",0-2
+Adani Group,Chennai,Healthcare,Bioinformatics Analyst,6,"Tableau, Python, Machine Learning",0-2
+ICICI Bank,Noida,IT,Backend Developer,10,"SQL, Figma, AWS",0-1
+HDFC Bank,Noida,Data Science,Data Scientist,14,"Machine Learning, SQL, Excel",0-2
+Axis Bank,Gurgaon,Finance,Investment Analyst,15,"Machine Learning, Java, Statistics",1-3
+Flipkart,Noida,Data Science,Business Analyst,13,"Statistics, AWS, Excel",0-1
+Amazon,Chennai,Healthcare,Health Data Analyst,14,"Communication, SQL, Tableau",0-1
+Google,Ahmedabad,Manufacturing,Operations Engineer,19,"Figma, Java, SQL",1-3
+Microsoft,Gurgaon,Finance,Investment Analyst,20,"Tableau, PowerBI, Statistics",0-1
+Meta,Mumbai,Healthcare,Bioinformatics Analyst,6,"PowerBI, Statistics, Python",0-1
+Apple,Delhi,Design,UX Designer,4,"Communication, Figma, Excel",0-2
+Oracle,Gurgaon,Data Science,ML Engineer,5,"PowerBI, Tableau, AWS",1-3
+IBM,Hyderabad,Telecom,Telecom Engineer,20,"Excel, PowerBI, Java",0-1
+Intel,Kolkata,Marketing,Digital Marketing Specialist,15,"AWS, Python, Machine Learning",0-1
+Cisco,Pune,Design,UX Designer,8,"Excel, Tableau, Python",1-3
+Paytm,Mumbai,Data Science,Data Scientist,7,"Java, Marketing Analytics, PowerBI",1-3
+PhonePe,Chennai,Healthcare,Health Data Analyst,20,"Communication, Machine Learning, Python",0-1
+Zomato,Hyderabad,Marketing,Growth Marketer,19,"Tableau, SQL, Marketing Analytics",1-3
+Swiggy,Gurgaon,Healthcare,Health Data Analyst,7,"Tableau, Machine Learning, AWS",1-3
+Ola Cabs,Delhi,IT,DevOps Engineer,9,"Python, Marketing Analytics, SQL",1-3
+Uber,Gurgaon,Design,UX Designer,9,"Excel, PowerBI, Machine Learning",0-2
+BYJU'S,Noida,Marketing,SEO Analyst,5,"Excel, Figma, Statistics",1-3
+Unacademy,Pune,Marketing,Digital Marketing Specialist,10,"PowerBI, Excel, Python",0-2
+Nykaa,Gurgaon,Data Science,Data Scientist,11,"SQL, Tableau, Excel",0-2
+Meesho,Delhi,Finance,Financial Analyst,15,"Marketing Analytics, Machine Learning, Java",1-3
+Deloitte,Ahmedabad,E-commerce,Category Analyst,10,"Statistics, Tableau, Python",0-1
+PricewaterhouseCoopers,Delhi,Telecom,Telecom Engineer,18,"Machine Learning, PowerBI, SQL",0-1
+Ernst & Young,Bangalore,Design,UI Designer,18,"Java, Figma, Tableau",0-1
+KPMG,Gurgaon,E-commerce,Category Analyst,18,"Machine Learning, Figma, Statistics",1-3
+Accenture,Kolkata,Finance,Financial Analyst,14,"SQL, Figma, Machine Learning",0-2
+Capgemini,Mumbai,Finance,Investment Analyst,7,"Statistics, Marketing Analytics, AWS",1-3
+Cognizant,Mumbai,Marketing,SEO Analyst,11,"Figma, Statistics, Java",0-2
+Larsen & Toubro,Gurgaon,E-commerce,Category Analyst,5,"Marketing Analytics, Figma, Machine Learning",1-3
+Mahindra & Mahindra,Pune,Design,UI Designer,10,"Excel, Statistics, PowerBI",0-1
+Tata Group,Kolkata,Manufacturing,Operations Engineer,14,"SQL, Python, Java",0-2
+Maruti Suzuki,Mumbai,Manufacturing,Process Engineer,11,"Python, PowerBI, Figma",0-1
+Hero MotoCorp,Chennai,E-commerce,Product Analyst,8,"PowerBI, Python, Marketing Analytics",0-2
+Bajaj Auto,Chennai,IT,Backend Developer,10,"AWS, Figma, Java",1-3
+TVS Motor Company,Mumbai,Consulting,Business Consultant,20,"PowerBI, Machine Learning, Python",0-2
+Ashok Leyland,Mumbai,Design,UX Designer,4,"Marketing Analytics, AWS, Machine Learning",1-3
+JSW Steel,Hyderabad,Design,UI Designer,15,"Python, PowerBI, SQL",0-2
+Tata Steel,Pune,Telecom,Telecom Engineer,19,"Java, Tableau, Machine Learning",0-1
+Vedanta,Pune,IT,DevOps Engineer,18,"PowerBI, Communication, SQL",1-3
+Oil and Natural Gas Corporation,Chennai,IT,Backend Developer,15,"Machine Learning, Communication, Marketing Analytics",0-2
+Coal India,Gurgaon,Consulting,Strategy Analyst,5,"Python, Statistics, AWS",0-2
+Dr. Reddy's Laboratories,Hyderabad,E-commerce,Category Analyst,5,"Python, Machine Learning, Excel",1-3
+Sun Pharmaceutical,Kolkata,Manufacturing,Process Engineer,13,"Java, Excel, Communication",0-1
+Cipla,Mumbai,Marketing,SEO Analyst,8,"SQL, PowerBI, Figma",0-1
+Apollo Hospitals,Ahmedabad,Telecom,Telecom Engineer,10,"Statistics, Java, Excel",0-1
+Fortis Healthcare,Chennai,Consulting,Business Consultant,14,"Python, AWS, PowerBI",1-3
+Biocon,Hyderabad,Finance,Risk Analyst,20,"Machine Learning, Excel, Java",0-1
+Aurobindo Pharma,Ahmedabad,E-commerce,Product Analyst,15,"Excel, Marketing Analytics, Communication",0-2
+Lupin,Mumbai,Design,UI Designer,9,"Excel, Python, Tableau",0-1
+Zydus Lifesciences,Hyderabad,E-commerce,Product Analyst,14,"SQL, Tableau, Communication",1-3
+Glenmark Pharmaceuticals,Pune,Finance,Financial Analyst,7,"Tableau, Python, Statistics",0-1
+Godrej Group,Gurgaon,E-commerce,Category Analyst,4,"SQL, Python, Marketing Analytics",0-2
+ITC Limited,Delhi,Manufacturing,Operations Engineer,10,"Machine Learning, Java, Excel",1-3
+Havells India,Delhi,Design,UX Designer,8,"Excel, Machine Learning, AWS",0-2
+Asian Paints,Delhi,Design,UI Designer,14,"SQL, Excel, Communication",0-1
+Pidilite Industries,Kolkata,Healthcare,Bioinformatics Analyst,17,"Statistics, Communication, Excel",1-3
+Britannia Industries,Delhi,Telecom,Network Analyst,19,"Machine Learning, PowerBI, Excel",0-1
+Nestle India,Chennai,Data Science,ML Engineer,6,"Statistics, AWS, PowerBI",1-3
+Dabur India,Mumbai,Design,UI Designer,19,"Python, Statistics, Marketing Analytics",1-3
+Amul,Chennai,Consulting,Business Consultant,17,"Machine Learning, AWS, Python",0-1
+Parle Products,Mumbai,Telecom,Telecom Engineer,19,"Figma, Marketing Analytics, Python",0-2
+Samsung,Bangalore,Healthcare,Health Data Analyst,8,"Excel, Figma, Statistics",0-2
+LG Electronics,Hyderabad,Consulting,Business Consultant,11,"SQL, Excel, Communication",1-3
+Sony,Bangalore,IT,Software Engineer,4,"AWS, PowerBI, Marketing Analytics",0-2
+Panasonic,Pune,Manufacturing,Process Engineer,13,"Machine Learning, Communication, Figma",0-1
+Xiaomi,Mumbai,Data Science,Business Analyst,6,"Marketing Analytics, Machine Learning, SQL",0-2
+OnePlus,Noida,E-commerce,Product Analyst,12,"SQL, Tableau, Statistics",0-1
+Realme,Mumbai,Marketing,Digital Marketing Specialist,14,"AWS, Statistics, Marketing Analytics",0-2
+Vivo,Noida,Design,Graphic Designer,18,"SQL, Machine Learning, PowerBI",0-2
+Oppo,Chennai,Finance,Risk Analyst,14,"Machine Learning, Tableau, AWS",1-3
+Lenovo,Kolkata,Consulting,Operations Analyst,12,"PowerBI, Communication, SQL",0-1
+Adobe,Delhi,Design,UX Designer,12,"SQL, Machine Learning, Statistics",1-3
+Salesforce,Noida,Consulting,Operations Analyst,13,"SQL, AWS, Marketing Analytics",0-1
+SAP,Gurgaon,Consulting,Strategy Analyst,11,"Communication, Python, PowerBI",0-2
+ServiceNow,Delhi,Telecom,Network Analyst,11,"Communication, Statistics, Tableau",0-1
+Snowflake,Chennai,Consulting,Business Consultant,9,"Java, PowerBI, Communication",1-3
+Databricks,Mumbai,Design,UX Designer,4,"Excel, SQL, Machine Learning",0-2
+Atlassian,Delhi,Consulting,Operations Analyst,14,"SQL, Python, Communication",0-2
+Stripe,Gurgaon,Design,Graphic Designer,14,"SQL, AWS, Python",1-3
+Airbnb,Hyderabad,Consulting,Business Consultant,5,"Figma, AWS, Python",0-1
+Netflix,Mumbai,E-commerce,Category Analyst,9,"PowerBI, Marketing Analytics, Statistics",0-1
+Spotify,Pune,IT,Software Engineer,4,"Machine Learning, Python, Communication",1-3
+Zoom,Pune,E-commerce,Category Analyst,18,"SQL, Java, Figma",0-2
+Dropbox,Noida,Finance,Risk Analyst,7,"Statistics, Java, Machine Learning",0-1
+Slack,Ahmedabad,Finance,Investment Analyst,7,"Communication, Figma, Statistics",1-3
+Red Hat,Chennai,Marketing,Digital Marketing Specialist,8,"Python, Java, SQL",0-2
+Cloudflare,Bangalore,E-commerce,Category Analyst,7,"Excel, Java, Statistics",0-2
+DigitalOcean,Gurgaon,Design,UX Designer,7,"Tableau, Python, AWS",0-2
+MongoDB,Delhi,Data Science,Data Analyst,12,"Figma, Excel, AWS",0-1
+Nvidia,Bangalore,IT,Software Engineer,11,"Machine Learning, AWS, SQL",1-3
+Advanced Micro Devices,Bangalore,Finance,Financial Analyst,13,"Tableau, PowerBI, Statistics",1-3
+Tata Consultancy Services,Chennai,E-commerce,Category Analyst,14,"Statistics, AWS, Figma",0-1
+Infosys,Pune,Finance,Risk Analyst,17,"Statistics, Python, Communication",1-3
+Wipro,Pune,Healthcare,Health Data Analyst,14,"Marketing Analytics, Tableau, Statistics",0-1
+HCL Technologies,Hyderabad,IT,Backend Developer,17,"Machine Learning, Figma, Excel",0-2
+Tech Mahindra,Delhi,Healthcare,Health Data Analyst,10,"Communication, Marketing Analytics, Machine Learning",0-2
+Reliance Industries,Chennai,E-commerce,Product Analyst,12,"Java, Figma, Marketing Analytics",0-1
+Adani Group,Noida,Design,UX Designer,8,"Machine Learning, Marketing Analytics, Excel",0-2
+ICICI Bank,Chennai,E-commerce,Product Analyst,5,"PowerBI, Tableau, Marketing Analytics",0-1
+HDFC Bank,Gurgaon,Telecom,Telecom Engineer,10,"Excel, Java, AWS",0-1
+Axis Bank,Noida,Design,Graphic Designer,18,"Tableau, Marketing Analytics, Python",1-3
+Flipkart,Kolkata,Data Science,ML Engineer,7,"Machine Learning, Communication, Figma",1-3
+Amazon,Gurgaon,Marketing,Digital Marketing Specialist,10,"Excel, Java, SQL",0-2
+Google,Bangalore,Manufacturing,Operations Engineer,14,"Marketing Analytics, Statistics, Tableau",1-3
+Microsoft,Pune,Marketing,SEO Analyst,10,"AWS, PowerBI, Excel",1-3
+Meta,Pune,Marketing,SEO Analyst,20,"Java, Excel, Python",1-3
+Apple,Delhi,Design,UX Designer,4,"AWS, PowerBI, Python",0-1
+Oracle,Noida,Consulting,Operations Analyst,6,"Python, Figma, AWS",0-1
+IBM,Chennai,Manufacturing,Operations Engineer,15,"Python, Tableau, Communication",1-3
+Intel,Hyderabad,Consulting,Business Consultant,19,"PowerBI, AWS, Communication",1-3
+Cisco,Chennai,Marketing,SEO Analyst,19,"Excel, Marketing Analytics, PowerBI",0-1
+Paytm,Pune,Data Science,Business Analyst,9,"Figma, Tableau, AWS",0-1
+PhonePe,Chennai,Healthcare,Bioinformatics Analyst,11,"AWS, Tableau, Excel",0-1
+Zomato,Gurgaon,Design,Graphic Designer,9,"Machine Learning, Excel, AWS",0-1
+Swiggy,Delhi,IT,Software Engineer,7,"SQL, Excel, Python",1-3
+Ola Cabs,Bangalore,Marketing,Growth Marketer,10,"PowerBI, Tableau, Statistics",1-3
+Uber,Ahmedabad,Marketing,Growth Marketer,8,"SQL, Java, Communication",0-1
+BYJU'S,Mumbai,IT,DevOps Engineer,11,"AWS, Tableau, Python",0-2
+Unacademy,Kolkata,Healthcare,Health Data Analyst,12,"Machine Learning, Figma, Java",1-3
+Nykaa,Mumbai,E-commerce,Product Analyst,4,"Python, Machine Learning, PowerBI",0-2
+Meesho,Bangalore,IT,Software Engineer,6,"Machine Learning, PowerBI, Figma",1-3
+Deloitte,Noida,Healthcare,Bioinformatics Analyst,4,"Java, Python, Machine Learning",0-1
+PricewaterhouseCoopers,Chennai,Healthcare,Health Data Analyst,19,"Machine Learning, Excel, Python",0-1
+Ernst & Young,Pune,Finance,Financial Analyst,4,"PowerBI, Machine Learning, Communication",0-1
+KPMG,Hyderabad,IT,Frontend Developer,7,"Tableau, Excel, Python",0-1
+Accenture,Gurgaon,IT,Software Engineer,20,"Java, Tableau, Python",0-2
+Capgemini,Bangalore,Marketing,SEO Analyst,13,"Excel, Java, AWS",1-3
+Cognizant,Hyderabad,Consulting,Operations Analyst,17,"PowerBI, Statistics, Python",0-1
+Larsen & Toubro,Mumbai,Consulting,Strategy Analyst,18,"AWS, PowerBI, SQL",1-3
+Mahindra & Mahindra,Mumbai,Manufacturing,Process Engineer,17,"Java, Python, PowerBI",0-1
+Tata Group,Chennai,Design,Graphic Designer,8,"Excel, Statistics, Java",1-3
+Maruti Suzuki,Noida,IT,Software Engineer,9,"Statistics, Communication, Figma",0-1
+Hero MotoCorp,Ahmedabad,Healthcare,Health Data Analyst,16,"PowerBI, Communication, Machine Learning",0-1
+Bajaj Auto,Pune,IT,DevOps Engineer,18,"Python, Communication, Machine Learning",1-3
+TVS Motor Company,Bangalore,Design,UX Designer,12,"Python, Machine Learning, Tableau",1-3
+Ashok Leyland,Noida,Data Science,Data Scientist,11,"Java, Tableau, Figma",0-2
+JSW Steel,Kolkata,Design,Graphic Designer,6,"Figma, Marketing Analytics, Python",0-2
+Tata Steel,Bangalore,Manufacturing,Process Engineer,13,"Marketing Analytics, PowerBI, Machine Learning",0-1
+Vedanta,Pune,Consulting,Business Consultant,18,"Statistics, Python, Tableau",1-3
+Oil and Natural Gas Corporation,Delhi,E-commerce,Product Analyst,6,"Python, Excel, Marketing Analytics",1-3
+Coal India,Gurgaon,Manufacturing,Operations Engineer,4,"Java, Figma, SQL",1-3
+Dr. Reddy's Laboratories,Chennai,E-commerce,Product Analyst,20,"Python, AWS, Java",0-2
+Sun Pharmaceutical,Noida,Data Science,Data Scientist,15,"Statistics, AWS, PowerBI",0-1
+Cipla,Noida,Healthcare,Health Data Analyst,17,"Machine Learning, Python, Communication",0-2
+Apollo Hospitals,Kolkata,Telecom,Telecom Engineer,13,"Communication, SQL, Tableau",0-1
+Fortis Healthcare,Ahmedabad,E-commerce,Product Analyst,15,"Marketing Analytics, Machine Learning, Figma",0-2
+Biocon,Noida,IT,DevOps Engineer,12,"Tableau, Machine Learning, SQL",0-2
+Aurobindo Pharma,Delhi,Design,UX Designer,18,"PowerBI, SQL, AWS",0-2
+Lupin,Mumbai,Telecom,Telecom Engineer,5,"Machine Learning, Python, AWS",0-1
+Zydus Lifesciences,Hyderabad,Healthcare,Bioinformatics Analyst,10,"Communication, Java, Statistics",0-2
+Glenmark Pharmaceuticals,Ahmedabad,Telecom,Network Analyst,4,"Statistics, Marketing Analytics, SQL",0-1
+Godrej Group,Hyderabad,Design,UX Designer,15,"PowerBI, SQL, Figma",0-2
+ITC Limited,Delhi,E-commerce,Product Analyst,13,"Excel, Java, Tableau",0-2
+Havells India,Noida,E-commerce,Category Analyst,9,"Python, PowerBI, Java",0-1
+Asian Paints,Gurgaon,IT,Frontend Developer,6,"Java, Machine Learning, Python",0-1
+Pidilite Industries,Chennai,Telecom,Telecom Engineer,4,"Excel, AWS, Figma",0-2
+Britannia Industries,Bangalore,Design,Graphic Designer,9,"AWS, Tableau, PowerBI",0-2
+Nestle India,Kolkata,Healthcare,Health Data Analyst,16,"Marketing Analytics, Figma, Python",1-3
+Dabur India,Mumbai,Marketing,Growth Marketer,18,"Machine Learning, Excel, Python",0-1
+Amul,Pune,IT,Frontend Developer,10,"SQL, Excel, Marketing Analytics",0-1
+Parle Products,Hyderabad,IT,Software Engineer,7,"Statistics, Java, Marketing Analytics",1-3
+Samsung,Bangalore,Design,Graphic Designer,9,"Communication, Statistics, Excel",1-3
+LG Electronics,Ahmedabad,Healthcare,Health Data Analyst,9,"Java, AWS, Statistics",0-2
+Sony,Chennai,Design,UX Designer,16,"Python, Statistics, SQL",0-1
+Panasonic,Chennai,Data Science,ML Engineer,6,"Communication, PowerBI, Java",0-2
+Xiaomi,Ahmedabad,Manufacturing,Operations Engineer,8,"Java, Statistics, Marketing Analytics",0-1
+OnePlus,Gurgaon,Manufacturing,Process Engineer,11,"Python, Java, SQL",1-3
+Realme,Delhi,Consulting,Strategy Analyst,13,"AWS, Figma, Communication",0-2
+Vivo,Hyderabad,Data Science,Data Scientist,13,"Machine Learning, Figma, Marketing Analytics",1-3
+Oppo,Bangalore,IT,DevOps Engineer,8,"PowerBI, Python, Figma",0-1
+Lenovo,Ahmedabad,Manufacturing,Process Engineer,6,"Communication, SQL, Tableau",1-3
+Adobe,Pune,Design,Graphic Designer,13,"PowerBI, Python, SQL",1-3
+Salesforce,Chennai,IT,Backend Developer,4,"Communication, SQL, Tableau",0-2
+SAP,Gurgaon,Marketing,SEO Analyst,9,"SQL, Figma, Python",1-3
+ServiceNow,Delhi,Healthcare,Bioinformatics Analyst,11,"Java, Communication, Figma",1-3
+Snowflake,Bangalore,Telecom,Telecom Engineer,8,"PowerBI, Communication, Java",0-2
+Databricks,Mumbai,Data Science,Data Analyst,19,"Marketing Analytics, Statistics, Figma",1-3
+Atlassian,Mumbai,Telecom,Network Analyst,6,"Figma, Machine Learning, Statistics",0-2
+Stripe,Kolkata,Finance,Investment Analyst,17,"Marketing Analytics, Tableau, Figma",0-2
+Airbnb,Bangalore,Consulting,Operations Analyst,13,"SQL, Java, AWS",1-3
+Netflix,Pune,Telecom,Network Analyst,14,"Communication, Excel, PowerBI",1-3
+Spotify,Noida,Design,UI Designer,12,"Excel, Communication, Figma",0-1
+Zoom,Gurgaon,Healthcare,Bioinformatics Analyst,6,"Communication, Machine Learning, Excel",0-2
+Dropbox,Noida,Design,Graphic Designer,9,"Excel, Statistics, Python",0-1
+Slack,Gurgaon,IT,Software Engineer,16,"Tableau, Communication, Java",1-3
+Red Hat,Noida,Telecom,Network Analyst,19,"Marketing Analytics, Communication, Tableau",1-3
+Cloudflare,Pune,Design,UX Designer,5,"AWS, SQL, Communication",0-2
+DigitalOcean,Hyderabad,E-commerce,Category Analyst,16,"Figma, PowerBI, AWS",1-3
+MongoDB,Kolkata,IT,Frontend Developer,16,"Java, Statistics, Communication",1-3
+Nvidia,Gurgaon,E-commerce,Category Analyst,15,"Statistics, Machine Learning, Python",0-1
+Advanced Micro Devices,Pune,Finance,Financial Analyst,18,"Statistics, Marketing Analytics, PowerBI",1-3
