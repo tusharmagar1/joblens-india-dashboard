@@ -134,7 +134,7 @@ fig.add_scattermapbox(
     marker=dict(size=14,color="yellow"),
     text=city_jobs["city"],
     textposition="top center",
-    hovertext=city_jobs["city"] + " | Jobs: " + city_jobs["job_count"].astype(str),
+    hovertext=city_jobs["city"].astype(str) + " | Jobs: " + city_jobs["job_count"].astype(str),
     hoverinfo="text"
 )
 
